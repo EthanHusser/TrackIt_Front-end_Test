@@ -1,0 +1,62 @@
+form {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.title_1 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.title-input {
+  margin-right: 35px;
+}
+
+.btn-enter {
+  margin-left: 35px;
+}
+
+.btn-delete {
+  margin-right: 10px;
+}
+
+.lab-img {
+  font-size: 35px;
+  text-align: center;
+  padding: 0.5%;
+}
+
+body {
+  background-image: url("bg.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+}
+
+.barred {
+  text-decoration: line-through;
+  color: red;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.bigtitle {
+  font-weight: bold;
+}
+
+.modal_1 {
+  text-align: center;
+  top: -50%;
+  left: 100%;
+  right: auto;
+  bottom: auto;
+}
+
+.modal_close {
+  text-align: right;
+  margin-top: 20px;
+  margin-right: 10px;
+}
